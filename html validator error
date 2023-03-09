@@ -1,0 +1,82 @@
+URI : https://medtouch.org/local/templates/default/js/slick/slick-theme.css?16291335103351
+1		Этот профиль имеет специфический синтаксис @charset: после @charset идет ровно один пробел, за которым следует название кодировки в кавычках, за которой сразу следует точка с запятой. @charset 'UTF-8';
+URI : https://medtouch.org/local/templates/default/components/bitrix/news.list/blog_main_cast/style.css?162913351043364
+433		Свойство animate не существует : 0.2s
+457		Свойство animate не существует : 0.2s
+476		Свойство animate не существует : 0.2s
+492		0dpi не является значением border-radius : 0dpi
+URI : https://medtouch.org/local/templates/default/css/air-datepicker.css?164622016116980
+3		Ошибка разбора :(var(--adp-day-cell-width))[7]
+3		Ошибка разбора :(var(--adp-day-cell-width))[7]
+3		Ошибка разбора :(1fr)[3]
+3		Ошибка разбора :(1fr)[4]
+5		Property fill doesn't exist. The closest matching property name is all : none
+5		Свойство stroke не существует : var(--adp-nav-arrow-color)
+5		Свойство stroke-width не существует : 2px
+17		Ошибка разбора :(max-content)[4]
+URI : https://medtouch.org/local/templates/default/css/style.css?167749777566611
+373		Свойство pointer-events не существует : none
+2683		Property fill doesn't exist. The closest matching property name is all : #fff
+3321		Свойство pointer-events не существует : none
+3445		Свойство pointer-events не существует : none
+URI : https://medtouch.org/local/templates/default/css/swiper-bundle.min.css?162913351013885
+13		Свойство pointer-events не существует : none
+13		Свойство pointer-events не существует : none
+13		Свойство pointer-events не существует : none
+13		Свойство pointer-events не существует : none
+13		Свойство pointer-events не существует : none
+13		Свойство pointer-events не существует : auto
+13		Свойство pointer-events не существует : none
+13		Свойство pointer-events не существует : none
+13		Свойство pointer-events не существует : auto
+13		Свойство pointer-events не существует : auto
+13		Свойство pointer-events не существует : none
+13		Свойство pointer-events не существует : none
+13		Свойство pointer-events не существует : auto
+URI : https://medtouch.org/local/templates/default/css/toastr.css?16291336158306
+100		Свойство pointer-events не существует : none
+110		Свойство pointer-events не существует : auto
+URI : https://medtouch.org/local/templates/default/css/redesign.css?166610750940495
+37		Свойство stroke-width не существует : 0
+38		Property fill doesn't exist. The closest matching property name is all : currentColor
+39		Свойство pointer-events не существует : none
+415		Property fill doesn't exist. The closest matching property name is all : #fff
+425		Property fill doesn't exist. The closest matching property name is all : none
+428		Свойство stroke-width не существует : 2px
+429		Свойство stroke не существует : #fff
+588		Property fill doesn't exist. The closest matching property name is all : none
+589		Свойство stroke-width не существует : 2px
+590		Свойство stroke не существует : var(--color--blue)
+793		Свойство pointer-events не существует : none
+865		слишком мало значений для свойства width
+898		слишком мало значений для свойства width
+950		слишком мало значений для свойства width
+1224		Property fill doesn't exist. The closest matching property name is all : #424242
+1248		Property fill doesn't exist. The closest matching property name is all : #fff
+1306		Property fill doesn't exist. The closest matching property name is all : #424242
+1488		Property fill doesn't exist. The closest matching property name is all : var(--color--pink)
+1620		Свойство pointer-events не существует : none
+1632		Свойство pointer-events не существует : auto
+1652		Property fill doesn't exist. The closest matching property name is all : #000000
+1653		Свойство fill-opacity не существует : 0.2
+1675		Свойство fill-opacity не существует : 1
+URI : https://medtouch.org/local/templates/default/js/slick/slick.css?16291335101895
+38		Ошибка значения : cursor hand не является значением cursor : hand
+99		Свойство pointer-events не существует : none
+URI : https://medtouch.org/local/templates/default/components/touchmed/auth.register/main/style.css?166920729620103
+194		Свойство clip-path не существует : inset(50%)
+323		Ошибка разбора background-image: -o-linear-gradient(top, white 50%, #eeeeee 100%);
+324		Ошибка разбора background-image: linear-gradient(to bottom, white 50%, #eeeeee 100%);
+325		Ошибка разбора background-repeat: repeat-x;
+326		Ошибка разбора filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFFFF', endColorstr='#FFEEEEEE', GradientType=0);
+327		Ошибка разбора }
+553		Свойство pointer-events не существует : none
+URI : https://medtouch.org/local/templates/default/template_styles.css?164604102217737
+61		Property fill doesn't exist. The closest matching property name is all : #fff
+333		Property fill doesn't exist. The closest matching property name is all : none
+336		Свойство stroke не существует : #7497FF
+337		Свойство stroke-width не существует : 7
+341		Свойство stroke не существует : #fff
+342		Свойство stroke-width не существует : 8
+420		Property fill doesn't exist. The closest matching property name is all : var(--accent-color)
+445		Свойство pointer-events не существует : none
